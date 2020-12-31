@@ -22,4 +22,4 @@ Guessing Game.bat           -                  A simple game that you guess a nu
 Matrix.bat and Matrix2.bat  -                  Two displays like in The Matrix 
 Narrator Box.vbs            -                  A narrator that you can make it speak whatever you typed in the text box.
 
-BONUS: To find out more types of files, go to ww.fileinfo.com.
+BONUS: To find out more types of files, go to www.fileinfo.com.
