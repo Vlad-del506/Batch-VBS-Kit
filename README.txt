@@ -4,8 +4,7 @@ Utilities:
 Adminscan.bat               -                  Scans the computer for problems and violations (must be run as Administrator to work)
 cmdcalc.bat                 -                  A basic alternative for the Windows Calculator
 Password Generator.bat      -                  Generates random numbers to guess a forgotten password
-privatefolder.bat           -                  Creates a folder named "Private" that can be locked and unlocked by a password. The default password is 123. To change the password,
-                                               edit the file with a text editor, then find the numbers 123, and replace them with another password
+privatefolder.bat           -                  Creates a folder named "Private" that can be locked and unlocked by a password. The default password is 123. To change the password, edit the file with a text editor, then find the numbers 123, and replace them with another password
 Pranks:
 Boxtaskkill.exe             -                  Can kill any prank from the folder
 box.vbs                     -                  A popup message that cannot be closed
