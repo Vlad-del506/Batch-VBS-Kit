@@ -12,8 +12,7 @@ BOX.exe                     -                  Continously makes popup messages 
 BrokenNarrator.bat          -                  A narrator that speaks non-stop a funny message and eventually it will make error messages
 Deskwipe.bat                -                  Makes the Desktop dissapear,remaining only the opened windows. Press Enter to go back to normal
 ExplorerReset.bat           -                  Makes a super-refresh
-SimpleText.vbs              -                  Creates a funny voice message. To edit the message, open the file with a text editor,then find the message you've just heard and
-                                               replace it with anything you want
+SimpleText.vbs              -                  Creates a funny voice message. To edit the message, open the file with a text editor,then find the message you've just heard and replace it with anything you want
 Other:
 Custom Shutdown.bat         -                  Makes the computer shut down with a custom message. The default message is "Noise"
 Date.txt                    -                  When you open it, the file automaticly puts the exact time it was opened
