@@ -2,6 +2,7 @@ This is the readme of the Kit. This will show the info of all the files in it.
 
 Utilities:
 Adminscan.bat               -                  Scans the computer for problems and violations (must be run as Administrator to work)
+Adminscan.exe               -                  Compiled version of Adminscan. Now it automaticaly run as Administrator.
 cmdcalc.bat                 -                  A basic alternative for the Windows Calculator
 Password Generator.bat      -                  Generates random numbers to guess a forgotten password
 privatefolder.bat           -                  Creates a folder named "Private" that can be locked and unlocked by a password. The default password is 123. To change the password, edit the file with a text editor, then find the numbers 123, and replace them with another password
@@ -22,4 +23,3 @@ Guessing Game.bat           -                  A simple game that you guess a nu
 Matrix.bat and Matrix2.bat  -                  Two displays like in The Matrix 
 Narrator Box.vbs            -                  A narrator that you can make it speak whatever you typed in the text box.
 
-BONUS: To find out more types of files, go to www.fileinfo.com.
